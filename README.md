@@ -41,3 +41,45 @@ pub async fn get_fresh_pools(tokens: Vec<TokenInArb>) -> HashMap<String, Market>
     // Scans supported DEXs for new pools containing specified tokens
     // Implements rate limiting between requests
 }
+
+## Configuration
+
+Edit `src/common/constants.rs` to configure:
+
+- RPC endpoints
+- DEX program IDs
+- Rate limits
+- Profit thresholds
+- MongoDB connection settings
+
+
+## Performance Optimization
+
+The bot includes several optimization features:
+
+- Batch processing with `get_multiple_accounts` for efficient RPC usage
+- Market filtering based on liquidity thresholds
+- Real-time WebSocket subscriptions for immediate market updates
+- MongoDB for persistent storage and performance analysis
+- Error rate limiting for problematic paths
+
+
+## Monitoring
+
+The bot outputs:
+
+- Real-time progress bars
+- Detailed logs of arbitrage opportunities with emoji indicators (💦, 👀, 📊)
+- JSON files with trade results
+- MongoDB integration for persistent storage and analysis
+
+
+## Disclaimer
+
+This is experimental software. Use at your own risk. The authors are not responsible for any funds lost while using this bot.
+
+## License
+\`\`\`
+
+This Markdown file contains all the documentation you provided about the bot's configuration, performance optimization, monitoring capabilities, and disclaimer.
+
