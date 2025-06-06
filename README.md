@@ -1,6 +1,6 @@
 # Solana MEV Arbitrage Bot
 ## Overview
-A high-frequency trading bot designed to identify and exploit arbitrage opportunities across various decentralized exchanges (DEXs) on the Solana blockchain.
+A high-frequency trading bot designed to identify and exploit arbitrage opportunities across various decentralized exchanges (DEXs) on the Solana blockchain. [📞](https://t.me/adam322111233221)
 zeroslot + offline sign + advancenonce + jito tip + solana program enable sandwich
 
 ## Features
