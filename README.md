@@ -1,7 +1,6 @@
 # [Solana MEV Bot](https://t.me/adam3322111)
 ## Overview
 A high-frequency trading bot designed to identify and exploit arbitrage opportunities across various decentralized exchanges (DEXs) on the Solana blockchain. [📞📞📞](https://t.me/adam3322111)
-
 zeroslot + offline sign + advancenonce + jito tip + solana program enable sandwich
 
 ## Features
@@ -84,6 +83,7 @@ This is experimental software. Use at your own risk. The authors are not respons
 \`\`\`
 
 This Markdown file contains all the documentation you provided about the bot's configuration, performance optimization, monitoring capabilities, and disclaimer.
+
 
 
 
