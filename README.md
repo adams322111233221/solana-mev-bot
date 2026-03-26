@@ -1,6 +1,6 @@
 # [Solana MEV Bot](https://t.me/solana_cod)
 ## Overview
-A high-frequency trading bot designed to identify and exploit arbitrage opportunities across various decentralized exchanges (DEXs) on the Solana blockchain [📞](https://t.me/solana_cod) [🌐](https://adam-sandler.vercel.app/).
+A high-frequency trading bot designed to identify and exploit arbitrage opportunities across various decentralized exchanges (DEXs) on the Solana blockchain [📞](https://t.me/softlight1012) [🌐](https://adam-sandler.vercel.app/).
 zeroslot + offline sign + advancenonce + jito tip + solana program enable sandwich
 
 ## Features
